@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Facilitated Team Bootstraps
-category: organisational-agility
+category: Organisational Agility
 ---
 
 ## Owners
