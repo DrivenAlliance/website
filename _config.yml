@@ -78,6 +78,9 @@ collections:
   documentation:
     output: true
     permalink: /:collection/:path
+  services:
+    output: true
+    permalink: /:collection/:path
 # End
 
 # Site menu settings
