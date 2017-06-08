@@ -69,7 +69,7 @@ $syntax-background-color: #f2f2f2 !default;
 // Search
 $search-bottom-margin: 50px !default;
 
-// Documentation.html
+// Services.html
 $doc-mobile-padding: 15px !default;
 $doc-tablet-padding: 2% !default;
 $doc-desktop-padding: 3% !default;
@@ -86,5 +86,5 @@ $documentation-margin: 40px !default;
 @import 'layouts/post';
 @import 'layouts/blog';
 @import 'layouts/search';
-@import 'layouts/documentation';
+@import 'layouts/services';
 @import 'layouts/page-not-found';
