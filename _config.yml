@@ -75,9 +75,6 @@ permalink: /:title/
 
 # Collections settings
 collections:
-  documentation:
-    output: true
-    permalink: /:collection/:path
   services:
     output: true
     permalink: /:collection/:path
@@ -89,23 +86,9 @@ menu:
     url: "/services"
 #  - title: "Blog"
 #    url: "/blog"
-#  - title: "Documentation"
-#    url: "/documentation"
 #  - title: "Support"
 #    url: "/support"
 # End
-
-category_order:
-  - 'Getting-started'
-  - 'Fundamentals'
-  - 'TipCalc Tutorial'
-  - 'Platform specifics'
-  - 'Upgrading'
-  - 'Samples'
-  - 'Plugins'
-  - 'Testing'
-  - 'Contributing'
-  - 'Licensing'
 
 services_category_order:
   - 'Organisational Agility'
