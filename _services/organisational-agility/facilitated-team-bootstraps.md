@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: services
 title: Facilitated Team Bootstraps
 category: organisation-agility
 ---

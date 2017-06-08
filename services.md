@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: services
 title: Services
 permalink: /services/
 ---

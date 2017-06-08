@@ -106,3 +106,6 @@ category_order:
   - 'Testing'
   - 'Contributing'
   - 'Licensing'
+
+services_category_order:
+  - 'Organisational Agility'
