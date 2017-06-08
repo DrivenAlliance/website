@@ -82,12 +82,14 @@ collections:
 
 # Site menu settings
 menu:
-  - title: "Blog"
-    url: "/blog"
-  - title: "Documentation"
-    url: "/documentation"
-  - title: "Support"
-    url: "/support"
+  - title: "Services"
+    url: "/services"
+#  - title: "Blog"
+#    url: "/blog"
+#  - title: "Documentation"
+#    url: "/documentation"
+#  - title: "Support"
+#    url: "/support"
 # End
 
 category_order:
