@@ -49,15 +49,15 @@ exclude:
 # End
 
 # Github metadata settings
-repository: MvvmCross/MvvmCross
+repository: DrivenAlliance/website
 # End
 
 # jekyll-seo-tag settings
 social:
-  name: MvvmCross
+  name: DrivenAlliance
   links:
-    - https://twitter.com/MvvmCross
-    - https://github.com/MvvmCross
+    - https://twitter.com/DrivenAlliance
+    - https://github.com/DrivenAlliance
 
 logo: /assets/img/logo/driven-emblem.png
 
