@@ -3,6 +3,7 @@ layout: services
 title: Spine Model Introduction
 category: Organisational Agility
 ---
+<img style="float:right" src="../../assets/img/services/spine-model.jpg" />
 
 [request a spine mapping introduction]()
 
@@ -10,6 +11,7 @@ category: Organisational Agility
 Applying, and teaching people to apply a powerful sensemaking framework called the [Spine Model](http://spinemodel.info), by the people who created the model.
 
 Understanding the Spine Model and how to apply it assists people to create a shared understanding of their human work system – how it currently is, how it should be and concrete steps to get there. It also provides a powerful interpersonal conflict resolution mechanism for the journey.
+
 # When to request it
 Understanding the Spine Model is useful for any context where you need people to collaborate in order to get work done to achieve a common purpose. When you would like people to grow their technical skills to an expert level in their field.
 
