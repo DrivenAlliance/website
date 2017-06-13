@@ -8,7 +8,7 @@ category: Organisational Agility
 [request this workshop]()
 
 # What it is
-In this workshop, facilitated by the people who created the [Spine Model](http://spinemodel.info), we teach you to apply this powerful sensemaking framework effectively.
+In this one-day workshop, facilitated by the people who created the [Spine Model](http://spinemodel.info), we teach you to apply this powerful sensemaking framework effectively.
 
 # What it can do for you
 Understanding the Spine Model and how to apply it assists you to create a shared understanding of your human work system – how it currently is, how it should be and concrete steps to get there. It also provides a powerful interpersonal conflict resolution mechanism for the journey.
