@@ -5,7 +5,7 @@ category: Organisational Agility
 ---
 <img style="float:right" src="../../assets/img/services/spine-model.jpg" />
 
-[request a spine mapping introduction]()
+[request a spine mapping introduction](#contact-form)
 
 # Spine Model Introduction
 Applying, and teaching people to apply a powerful sensemaking framework called the [Spine Model](http://spinemodel.info), by the people who created the model.
@@ -25,7 +25,7 @@ When done outside of a coaching engagement:
 * **R 4 850** / person for small groups (5 – 12 attendees)
 * **R 4 150** / person for larger groups (11 – 60 attendees) 
 
-[request a spine mapping introduction]()
+[request a spine mapping introduction](#contact-form)
 
 ---
 > **Disclaimer:** All prices quoted include 14% VAT and are for client's premises in Johannesburg, South Africa. Any venue costs or travel outside Johannesburg will be for the client's account. Prices subject to an annual increase (prices quoted are for FY18). Preferential rates can be negotiated for repeat work.

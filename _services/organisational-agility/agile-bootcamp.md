@@ -3,7 +3,7 @@ layout: services
 title: Agile Bootcamp
 category: Organisational Agility
 ---
-[request an Agile bootcamp for your organisation]()
+[request an Agile bootcamp for your organisation](#contact-form)
 
 # Agile Bootcamp Introduction
 Applying, and teaching people from all parts of the organisation the basics of Agile in a 2 day bootcamp, by people that have been on the journey and have helped many others along the way. 
@@ -40,7 +40,7 @@ When done outside of a coaching engagement:
 * **R 5 988** / person for small groups (5 – 10 attendees)
 * **R 4 990** / person for larger groups (11 – 20 attendees) 
 
-[request an agile bootcamp]()
+[request an agile bootcamp for your organisation](#contact-form)
 
 ---
 > **Disclaimer:** All prices quoted include 14% VAT and are for client's premises in Johannesburg, South Africa. Any venue costs or travel outside Johannesburg will be for the client's account. Prices subject to an annual increase (prices quoted are for FY18). Preferential rates can be negotiated for repeat work.
