@@ -5,7 +5,7 @@ category: Organisational Agility
 ---
 <img style="float:right" src="../../assets/img/services/spine-model.jpg" />
 
-[request this workshop]()
+[request a Spine Model Introductory Workshop](#contact-form)
 
 # What it is
 In this one-day workshop, facilitated by the people who created the [Spine Model](http://spinemodel.info), we teach you to apply this powerful sensemaking framework effectively.
@@ -31,7 +31,7 @@ When done outside of a coaching engagement:
 * **R 4 850** / person for small groups (5 – 12 attendees)
 * **R 4 150** / person for larger groups (11 – 60 attendees) 
 
-[request a Spine Model Introductory Workshop]()
+[request a Spine Model Introductory Workshop](#contact-form)
 
 
 ---
