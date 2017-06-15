@@ -92,8 +92,8 @@ menu:
 #    url: "/about"
 #  - title: "Contact Us"
 #    url: "/contact"
-#  - title: "Blog"
-#    url: "/blog"
+  - title: "Blog"
+    url: "/blog"
 #  - title: "Support"
 #    url: "/support"
 # End

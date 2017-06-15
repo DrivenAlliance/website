@@ -49,6 +49,12 @@
   }
 }
 
+img {
+      max-width: 100%;
+      border: 1px solid $text-color;
+      margin: 10px;
+    }
+
 @include media-query-max($on-mobile) {
   .blog {
     padding-left: $base-mobile-padding;
