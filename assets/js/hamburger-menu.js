@@ -1,5 +1,3 @@
-/* Copyright (c) 2017 MvvmCross */
-
 var hamburgerMenu = openMenu("hamburger-menu");
 
 function openMenu(id) {

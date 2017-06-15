@@ -1,6 +1,4 @@
- /* Copyright (c) 2017 MvvmCross */
- 
- (function() {
+  (function() {
 
      var titleBoost = 1;
      var authorBoost = 1;

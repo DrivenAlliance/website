@@ -1,7 +1,3 @@
-/**
- * Copyright (c) 2017 MvvmCross
- */
-
 @mixin media-query-max($devices-width) {
   @media screen and (max-width: $devices-width) {
     @content;
