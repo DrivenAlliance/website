@@ -2,7 +2,7 @@
 layout: post
 title: The importance of Implicit Mentorship
 date:   2015-02-19 11:37:35 +0100
-categories: Mentorship
+categories: [Mentorship, Mentorship, Mentorship, Leadership]
 tags: [Mentorship]
 author: Steven McDonald
 ---
