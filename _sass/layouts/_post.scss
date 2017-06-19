@@ -2,6 +2,7 @@
   color: $text-color;
   margin-bottom: $post-bottom-margin;
 
+  h1,
   h2,
   h3,
   h4,
@@ -9,10 +10,6 @@
   h6 {
     font-weight: $base-font-weight;
     color: $brand-color;
-  }
-
-  h1 {
-    font-weight: $base-font-weight;
   }
 
   h2 {
