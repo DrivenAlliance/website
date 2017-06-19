@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Physical or Electronic Team Boards?
-date:   2014-12-11 11:37:35 +0100
-categories: [adizes, problems]
+categories: [tools]
+tagline: ""
 author: Kevin Trethewey
+tags: [adizes, problems, visualising the work]
 ---
 
 ![image](/assets/img/blogs/physical-board.png)
