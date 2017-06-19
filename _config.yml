@@ -90,10 +90,10 @@ menu:
 #    url: "/community"  
 #  - title: "About"
 #    url: "/about"
-#  - title: "Contact Us"
-#    url: "/contact"
   - title: "Blog"
     url: "/blog"
+  - title: "Contact Us"
+    url: "/contact"
 #  - title: "Support"
 #    url: "/support"
 # End
