@@ -6,7 +6,7 @@ tagline: "With Driven and 8th Light"
 author: Kevin Trethewey
 tags: [Events, Mastery, SoftwareCraftsmanship]
 ---
-<img style="float: right; margin-right: 150px; border:15px solid white; max-width: 100%;" src="/assets/images/craftsmanship.jpg	" />
+<img style="float: right; margin-right: 150px; border:15px solid white; max-width: 100%;" src="/assets/img/blogs/craftsmanship.jpg	" />
 
 > This event happened on the 14th of April. You can get [Steven Mcdonald](https://twitter.com/stevenmcd)'s slides [here](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/DevConf_BeautifulAPIs_2016.pdf), [Daniel Irvine](https://twitter.com/d_ir)'s [here](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/Discipline%20and%20professionalism.pdf) and [Jim Suchy](https://twitter.com/jsuchy)'s [here](https://dl.dropboxusercontent.com/u/62921/Presentations/mastery/budding_culture.pdf).
 >
@@ -46,7 +46,7 @@ Seats will be reserved on a strictly first-come first-served basis. Please [RSVP
 
 ## Talk 1 - Beautiful API's - Steven McDonald (Driven)
 
-<img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/images/Steven-Mcdonald.jpg" />
+<img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/img/blogs/Steven-Mcdonald.jpg" />
 
 Steven is a Software developer from Driven. He's been a developing software for just over a decade now and in that time learned that software development is more about people than code. Although the code is fun, the people aspect is so much more important.
 
@@ -56,7 +56,7 @@ Steven will cover what types of APIs there are and how we can write and maintain
 
 ## Talk 2 - Developing Software Craftsmanship - Daniel Irvine (8th Light)
 
-<img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/images/Daniel-Irvine.jpg" />
+<img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/img/blogs/Daniel-Irvine.jpg" />
 
 As a software craftsman that came through 8th Light's apprenticeship program, Daniel will talk about his path and discuss the various different development practices 8th Light's teams follow during their daily work, and why.
 
@@ -67,7 +67,7 @@ He will talk about what 8th Light means when they talk of craftsmanship, and how
 
 ## Talk 3 - Recreating Software Team Culture - Jim Suchy (8th Light)
 
-<img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/images/Jim-Suchy.jpg" />
+<img style="float: right; margin-right: 150px; border:5px solid #FFFFFF; max-width: 100%;" src="/assets/img/blogs/Jim-Suchy.jpg" />
 
 On small teams, most processes are informal — they don’t need to be communicated, because they’re solving a problem that is apparent to everyone. As teams grow and these processes mature, it’s imperative that companies confront the risk of the cargo cult and ensure they aren't maintaining processes because of tradition rather than deriving any value from them.
 
