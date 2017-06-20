@@ -35,6 +35,7 @@
     padding-top: $home-landing-padding;
     padding-bottom: $home-landing-padding;
     background: url($baseurl + "/assets/img/slider/slider-bg1.jpg") no-repeat center center;
+    text-align: left;
 
     .start-button {
       background-color: $brand-color;
