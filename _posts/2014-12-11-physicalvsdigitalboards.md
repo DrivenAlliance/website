@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Physical or Electronic Team Boards?
+title: Physical vs Electronic Team Boards
 categories: [tools]
-tagline: ""
+tagline: "Which is better?"
 author: Kevin Trethewey
 tags: [adizes, problems, visualising the work]
 ---
