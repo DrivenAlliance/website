@@ -39,9 +39,6 @@ The Driven Agile Bootcamp is useful for any context where...
 This is run over 2 full days as an interactive workshop.
 
 # Cost
-When done as part of a full coaching engagement, these sessions are charged at a rate of **R 1ﾠ368** per coach per hour. Additional hours prior to the bootcamp will be required for preparation. 
-
-When done outside of a coaching engagement:
 
 * **R 5 988** / person for small groups (5 – 10 attendees)
 * **R 4 990** / person for larger groups (11 – 20 attendees) 

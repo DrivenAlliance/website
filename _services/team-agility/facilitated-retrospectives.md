@@ -20,12 +20,11 @@ We believe this is one of our biggest impact offerings. In Driven facilitated re
 Any time you need people to collaborate in a healthy way in order to get work done to achieve a common purpose. 
 
 # Cost
-When done as part of a full coaching engagement, these sessions are charged at a rate of **R 1ﾠ368** per coach per hour.
-
-When done outside of a coaching engagement:
 
 * **R 1 100** / person per session for small groups (5 – 12 attendees)
 * **R 800** / person per session for larger groups (11 – 20 attendees) 
+
+\* When done as part of a full coaching engagement these sessions are charged at the hourly rate of the coach involved. 
 
 [request a facilitated retrospective](#contact-form)
 

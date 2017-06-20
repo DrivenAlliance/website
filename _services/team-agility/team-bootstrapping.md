@@ -21,13 +21,12 @@ The Team Contract answers this question: *"What do you personally need to be in 
 The best time to bootstrap a team is when they are newly forming as a team. Other appropriate times are when there has been a change in team membership or the team feels like they have drifted apart, they are not pulling together or conflict is not being dealt with in a healthy way.
 
 # Cost
-When done as part of a full coaching engagement, these sessions are charged at a rate of **R 1ﾠ368** per coach per hour.
-
-When done outside of a coaching engagement:
 
 * **R 2 700** / person for small groups (5 – 12 attendees)
 
-This teaming process does not work for groups larger than 12, and we recommend an ideal team size of 5-7 for an optimal result.
+\* When done as part of a full coaching engagement these sessions are charged at the hourly rate of the coach involved. 
+
+\*\* This teaming process does not work for groups larger than 12, and we recommend an ideal team size of 5-7 for an optimal result.
 
 [request a team bootstrap](#contact-form)
 

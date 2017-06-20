@@ -24,12 +24,11 @@ Understanding the Spine Model is useful for any context where...
 This is a full day interactive workshop.
 
 # Cost
-When done as part of a full coaching engagement, these sessions are charged at a rate of **R 1ﾠ368** per coach per hour.
-
-When done outside of a coaching engagement:
 
 * **R 4 850** / person for small groups (5 – 12 attendees)
 * **R 4 150** / person for larger groups (11 – 60 attendees) 
+
+\* When done as part of a full coaching engagement these sessions are charged at the hourly rate of the coach involved. 
 
 [request a Spine Model Introductory Workshop](#contact-form)
 

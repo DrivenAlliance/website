@@ -28,7 +28,7 @@ When done outside of a coaching engagement:
 * **R 1 700** / person for small groups (5 – 12 attendees)
 * **R 1 200** / person for larger groups (11 – 60 attendees) 
 
-&ast; Larger groups can be catered for on request.
+\* Larger groups can be catered for on request.
 
 [request an internal code retreat](#contact-form)
 
