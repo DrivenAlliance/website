@@ -4,7 +4,7 @@ title: Facilitated Retrospectives
 category: Team Agility
 ---
 
-[request facilitated retrospectives]()
+[request facilitated retrospectives](#contact-form)
 
 # What it is
 Driven facilitated retrospectives are a very effective team or department level learning sessions. We recommend one hour every two weeks for delivery teams, and a slightly longer cadence for leadership teams, to create effective feedback at all levels.
@@ -27,7 +27,7 @@ When done outside of a coaching engagement:
 * **R 1 100** / person per session for small groups (5 – 12 attendees)
 * **R 800** / person per session for larger groups (11 – 20 attendees) 
 
-[request a facilitated retrospective]()
+[request a facilitated retrospective](#contact-form)
 
 ---
 > **Disclaimer:** All prices quoted include 14% VAT and are for client's premises in Johannesburg, South Africa. Any venue costs or travel outside Johannesburg will be for the client's account. Prices subject to an annual increase (prices quoted are for FY18). Preferential rates can be negotiated for repeat work.

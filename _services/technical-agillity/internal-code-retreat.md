@@ -4,7 +4,7 @@ title: Internal Code Retreats
 category: Technical Agility
 ---
 
-[request an internal code retreat]()
+[request an internal code retreat](#contact-form)
 
 # Internal Code Retreats
 A Coderetreat is a day-long, intensive software developer focussed practice event, focusing on the fundamentals of software development and design.
@@ -30,7 +30,7 @@ When done outside of a coaching engagement:
 
 &ast; Larger groups can be catered for on request.
 
-[request an internal code retreat]()
+[request an internal code retreat](#contact-form)
 
 ---
 > **Disclaimer:** All prices quoted include 14% VAT and are for client's premises in Johannesburg, South Africa. Any venue costs or travel outside Johannesburg will be for the client's account. Prices subject to an annual increase (prices quoted are for FY18). Preferential rates can be negotiated for repeat work.

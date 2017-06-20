@@ -4,7 +4,7 @@ title: Team Bootstrapping
 category: Team Agility
 ---
 
-[request a team bootstrap]()
+[request a team bootstrap](#contact-form)
 
 # Team Bootstrapping
 A Team Bootstrap process focusses on the core foundations of a team, and is an indispensable part of forming people into a cohesive unit that knows how to collaborate well.
@@ -29,7 +29,7 @@ When done outside of a coaching engagement:
 
 This teaming process does not work for groups larger than 12, and we recommend an ideal team size of 5-7 for an optimal result.
 
-[request a team bootstrap]()
+[request a team bootstrap](#contact-form)
 
 ---
 > **Disclaimer:** All prices quoted include 14% VAT and are for client's premises in Johannesburg, South Africa. Any venue costs or travel outside Johannesburg will be for the client's account. Prices subject to an annual increase (prices quoted are for FY18). Preferential rates can be negotiated for repeat work.
