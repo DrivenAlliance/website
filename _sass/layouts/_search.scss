@@ -42,5 +42,6 @@
   #search-results {
     padding-left: $base-desktop-padding;
     padding-right: $base-desktop-padding;
+    padding-top: $header-height + $header-border-width;
   }
 }
