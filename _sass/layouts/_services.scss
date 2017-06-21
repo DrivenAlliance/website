@@ -6,6 +6,7 @@
     height: calc(100vh - (#{$header-height} + #{$header-border-width}));
     padding-left: 15px;
     padding-right: 15px;
+    padding-top: 15px;
     overflow-y: auto;
     box-sizing: border-box;
     border: solid 1px $gray-color;
@@ -145,6 +146,7 @@
       margin-left: $doc-menu-width;
       padding-right: $doc-desktop-padding;
       padding-left: $doc-desktop-padding;
+      padding-top: $header-height + $header-border-width;
     }
   }
 }
