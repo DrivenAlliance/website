@@ -78,6 +78,9 @@ collections:
   services:
     output: true
     permalink: /:collection/:path
+  people:
+    output: true
+    permalink: /:collection/:path
 # End
 
 # Site menu settings
@@ -92,6 +95,8 @@ menu:
 #    url: "/about"
   - title: "Blog"
     url: "/blog"
+  - title: "People"
+    url: "/people"
   - title: "Contact Us"
     url: "/contact"
 #  - title: "Support"
