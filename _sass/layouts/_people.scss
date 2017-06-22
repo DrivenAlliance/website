@@ -26,7 +26,11 @@
     }
 
     p {
-      font-size: 1.5rem;
+      font-size: $people-font-size;
+    }
+
+    .container {
+    padding-top: $people-container-padding;
     }
   }
 
@@ -34,7 +38,8 @@
     color: #FFFFFF;
     padding-top: $people-landing-padding;
     padding-bottom: $people-landing-padding;
-    background: url($baseurl + "/assets/img/slider/pg-slider-people.jpg") no-repeat center center;
+    min-height: 400px;
+    background: url($baseurl + "/assets/img/slider/slider-people.jpg") no-repeat center center;
     text-align: left;
 
     .start-button {
@@ -119,8 +124,8 @@
 @include media-query-min($on-desktop) {
   .people {
     > section {
-      padding-left: $base-desktop-padding;
-      padding-right: $base-desktop-padding;
+      padding-left: $people-desktop-padding;
+      padding-right: $people-desktop-padding;
     }
 
     .company-gallerys {

@@ -43,3 +43,612 @@
     padding-right: 0px;
     padding-left: 0px;
   }
+
+  .bg-gray {
+    background: #ECEFF1;
+  }
+
+  ol, ul {
+    list-style: none;
+  }
+
+  /* Team Box */ 
+  .team-box {
+  display: block;
+  position: relative;
+  z-index: 2
+}
+.team-box img {
+  width: 100%;
+  margin: 0 !important;
+}
+.team-box-animated {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  background: transparent;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.team-box-animated .inner {
+  -webkit-perspective: 100px;
+  -moz-perspective: 100px;
+  -ms-perspective: 100px;
+  perspective: 100px;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transition: all 1000ms cubic-bezier(0.175, 0.885, 0.320, 1.275) 0 !important;
+  -moz-transition: all 1000ms cubic-bezier(0.175, 0.885, 0.320, 1.275) 0s !important;
+  -o-transition: all 1000ms cubic-bezier(0.175, 0.885, 0.320, 1.275) 0 !important;
+  transition: all 1000ms cubic-bezier(0.175, 0.885, 0.320, 1.275) 0 !important;
+}
+.team-box-animated .front, .team-box-animated .back {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden
+}
+.team-box-animated .front {
+  -ms-transform: rotateY(0deg);
+  z-index: 8;
+  display: block;
+  border: 1px solid #f6f6f6;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 0px !important;
+  padding-bottom: 20px;
+  background: #fff;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.team-box-animated .front h3 {
+  margin: 20px 0 0;
+  font-weight: 800;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.team-box-animated .front span {
+  font-weight: 300;
+  font-size: 12px;
+}
+.team-box-animated .back {
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -o-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+  overflow: hidden;
+  color: #fff;
+  background: #c7952a;
+  border: 1px solid #c7952a;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+  webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.team-box-animated .back h3 {
+  margin: 20px 0 0;
+  font-weight: 800;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.team-box-animated .back span {
+  font-weight: 300;
+  font-size: 12px;
+}
+.team-box-animated .back p {
+  color: #fff;
+  margin: 20px 0;
+  text-align: left;
+}
+.team-box-animated .back ul.social-icons {
+  color: #fff !important;
+  text-align: left;
+  margin-left: -15px;
+  position: absolute;
+  bottom: 20px;
+}
+.team-box-animated .back ul.social-icons li a:hover {
+  color: #fff !important;
+  text-align: left;
+  background: none !important;
+}
+.team-box-animated:hover .inner, .no-csstransitions .team-box-animated .inner {
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -o-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.team-box-animated:hover .front {
+  z-index: -1
+}
+
+/* Social Icons
+====================================*/
+.social-icons li {
+  display: inline-block;
+  padding-right: 5px;
+}
+.social-icons li a i {
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  color: #999;
+  border-radius: 50%;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.social-icons li a:hover i {
+  color: #fff;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+}
+.social-icons .tooltip-inner {
+  color: #fff;
+  background-color: #eb5a55;
+  padding: 5px 12px;
+  position: relative;
+  top: -10px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.social-icons .tooltip.top .tooltip-arrow {
+  border-top-color: #eb5a55;
+  position: relative;
+  bottom: -20px;
+}
+
+/* Common Styles */
+.social-icons li a i {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.twitter:before, .wordpress:before, .facebook:before, .linkedin:before, .steam:before, .tumblr:before, .github:before, .delicious:before, .instagram:before, .xing:before, .ebay:before, .dropbox:before, .paypal:before, .lastfm:before, .gplus:before, .pinterest:before, .dribbble:before, .flickr:before, .reddit:before, .vimeo:before, .spotify:before, .rss:before, .youtube:before, .blogger:before, .appstore:before, .digg:before, .evernote:before, .fivehundredpx:before, .forrst:before, .stumbleupon:before, .dribbble:before {
+  font-family: 'fontello';
+  font-size: 18px;
+  line-height: 18px;
+  color: #3c3c3c;
+  -webkit-transition: all 0.15s ease-in-out;
+  -moz-transition: all 0.15s ease-in-out;
+  -o-transition: all 0.15s ease-in-out;
+  -ms-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  position: absolute;
+  z-index: 20;
+}
+
+/* Icon Styles */
+.twitter:before {
+  font-size: 18px;
+}
+.twitter i, .twitter:before {
+  margin: 13px 0 0 12px;
+}
+.twitter:before {
+  content: "\f309";
+  top: 0;
+  opacity: 1;
+}
+.twitter:hover:before {
+  top: 10px;
+  opacity: 0;
+}
+.twitter:hover {
+  background-color: #3bc1ed;
+}
+.dribbble i, .dribbble:before {
+  margin: 13px 0 0 13px;
+}
+.dribbble:before {
+  content: "\f31b";
+  top: 0;
+  opacity: 1;
+}
+.dribbble:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.dribbble:hover {
+  background-color: #ef5a92;
+}
+.facebook i, .facebook:before {
+  margin: 13px 0 0 16px;
+}
+.facebook:before {
+  content: "\f30c";
+  top: 0;
+  opacity: 1;
+}
+.facebook:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.facebook:hover {
+  background-color: #4a6d9d;
+}
+.linkedin i, .linkedin:before {
+  margin: 13px 0 0 13px;
+}
+.linkedin:before {
+  content: "\f318";
+  top: 0;
+  opacity: 1;
+}
+.linkedin:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.linkedin:hover {
+  background-color: #0b7bb5;
+}
+.delicious i, .delicious:before {
+  margin: 13px 0 0 13px;
+}
+.delicious:before {
+  content: "\23";
+  top: 0;
+  opacity: 1;
+}
+.delicious:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.delicious:hover {
+  background-color: #3274d1;
+}
+.paypal i, .paypal:before {
+  margin: 13px 0 0 13px;
+}
+.paypal:before {
+  content: "\f342";
+  top: 0;
+  opacity: 1;
+}
+.paypal:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.paypal:hover {
+  background-color: #2e689a;
+}
+.gplus i, .gplus:before {
+  margin: 13px 0 0 13px;
+}
+.gplus:before {
+  content: "\f30f";
+  top: 0;
+  opacity: 1;
+}
+.gplus:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.gplus:hover {
+  background-color: #d53824;
+}
+.stumbleupon i, .stumbleupon:before {
+  margin: 13px 0 0 11px;
+}
+.stumbleupon:before {
+  content: "\f31e";
+  top: 0;
+  opacity: 1;
+}
+.stumbleupon:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.stumbleupon:hover {
+  background-color: #eb4924;
+}
+.fivehundredpx i, .fivehundredpx:before {
+  margin: 13px 0 0 11px;
+}
+.fivehundredpx:before {
+  content: "\30";
+  top: 0;
+  opacity: 1;
+}
+.fivehundredpx:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.fivehundredpx:hover {
+  background-color: #444;
+}
+.pinterest i, .pinterest:before {
+  margin: 13px 0 0 15px;
+}
+.pinterest:before {
+  content: "\f312";
+  top: 0;
+  opacity: 1;
+}
+.pinterest:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.pinterest:hover {
+  background-color: #cb1f25;
+}
+.forrst i, .forrst:before {
+  margin: 13px 0 0 15px;
+}
+.forrst:before {
+  content: "\3a";
+  top: 0;
+  opacity: 1;
+}
+.forrst:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.forrst:hover {
+  background-color: #40833e;
+}
+.digg i, .digg:before {
+  margin: 13px 0 0 12px;
+}
+.digg:before {
+  content: "\3b";
+  top: 0;
+  opacity: 1;
+}
+.digg:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.digg:hover {
+  background-color: #205685;
+}
+.spotify i, .spotify:before {
+  margin: 13px 0 0 13px;
+}
+.spotify:before {
+  content: "\f328";
+  top: 0;
+  opacity: 1;
+}
+.spotify:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.spotify:hover {
+  background-color: #6ca405;
+}
+.blogger i, .blogger:before {
+  margin: 13px 0 0 15px;
+  font-size: 14px !important;
+}
+.blogger:before {
+  content: "\42";
+  top: 0;
+  opacity: 1;
+}
+.blogger:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.blogger:hover {
+  background-color: #ff6501;
+}
+.evernote i, .evernote:before {
+  margin: 13px 0 0 15px;
+}
+.evernote:before {
+  content: "\f3c3c3c";
+  top: 0;
+  opacity: 1;
+}
+.evernote:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.evernote:hover {
+  background-color: #6bb130;
+}
+.flickr i, .flickr:before {
+  margin: 13px 0 0 13px;
+}
+.flickr:before {
+  content: "\f303";
+  top: 0;
+  opacity: 1;
+}
+.flickr:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.flickr:hover {
+  background-color: #136dd5;
+}
+.rss i, .rss:before {
+  margin: 13px 0 0 14px;
+  font-size: 14px !important;
+}
+.rss:before {
+  content: "\e73a";
+  top: 0;
+  opacity: 1;
+}
+.rss:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.rss:hover {
+  background-color: #fe8f00;
+}
+.youtube i, .youtube:before {
+  margin: 13px 0 0 14px;
+  font-size: 18px !important;
+}
+.youtube:before {
+  content: "\f313";
+  top: 0;
+  opacity: 1;
+}
+.youtube:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.youtube:hover {
+  background-color: #bf2f29;
+}
+.vimeo i, .vimeo:before {
+  margin: 13px 0 0 13px;
+  font-size: 14px !important;
+}
+.vimeo:before {
+  content: "\f306";
+  top: 0;
+  opacity: 1;
+}
+.vimeo:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.vimeo:hover {
+  background-color: #4c8ab0;
+}
+.dropbox i, .dropbox:before {
+  margin: 13px 0 0 13px;
+}
+.dropbox:before {
+  content: "\64";
+  top: 0;
+  opacity: 1;
+}
+.dropbox:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.dropbox:hover {
+  background-color: #2c92dd;
+}
+.github i, .github:before {
+  margin: 13px 0 0 13px;
+}
+.github:before {
+  content: "\67";
+  top: 0;
+  opacity: 1;
+}
+.github:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.github:hover {
+  background-color: #5c7381;
+}
+.lastfm i, .lastfm:before {
+  margin: 13px 0 0 11px;
+}
+.lastfm:before {
+  content: "\f321";
+  top: 0;
+  opacity: 1;
+}
+.lastfm:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.lastfm:hover {
+  background-color: #d21309;
+}
+.tumblr i, .tumblr:before {
+  margin: 13px 0 0 15px;
+}
+.tumblr:before {
+  content: "\f315";
+  top: 0;
+  opacity: 1;
+}
+.tumblr:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.tumblr:hover {
+  background-color: #3d658d;
+}
+.instagram i, .instagram:before {
+  margin: 13px 0 0 14px;
+}
+.instagram:before {
+  content: "\f31f";
+  top: 0;
+  opacity: 1;
+}
+.instagram:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.instagram:hover {
+  background-color: #3f6f94;
+}
+.ebay i, .ebay:before {
+  margin: 13px 0 0 14px;
+}
+.ebay:before {
+  content: "\65";
+  top: 0;
+  opacity: 1;
+}
+.ebay:hover:before {
+  top: 30px;
+  opacity: 0;
+}
+.ebay:hover {
+  background-color: #66CC00;
+}
+

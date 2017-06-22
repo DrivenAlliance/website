@@ -70,7 +70,7 @@ date_format: "%b %-d, %Y"
 # End
 
 # Site permalink settings
-permalink: /:title/
+permalink: /:collection/:path
 # End
 
 # Collections settings
