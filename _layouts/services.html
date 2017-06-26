@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<div class="doc-container">
-    <div class="doc-menu">
+<div class="container">
+    <div class="col-md-3">
         {% assign navurl = page.url | remove: 'index.html' %}
         {% assign docs_by_category = site.services | group_by: "category" %}
         {% for cat in site.services_category_order %}
@@ -22,16 +22,18 @@ layout: default
             </ul>
         {% endfor %}
     </div>
-    <article class="documentation">
-        <header class="doc-header">
-            <h1 class="doc-title">{{ page.title | escape }}</h1>
-<!--            <a class="edit-button" href="{{ site.github.repository_url }}/tree/master/docs/{{ page.relative_path }}">Edit</a>-->
-        </header>
-        <section>
-            {{ content }}
-            {% include contact.html %}
-        </section>
-    </article>
+    <div class="col-md-9">
+        <article class="documentation">
+            <header class="doc-header">
+                <h1 class="doc-title">{{ page.title | escape }}</h1>
+    <!--            <a class="edit-button" href="{{ site.github.repository_url }}/tree/master/docs/{{ page.relative_path }}">Edit</a>-->
+            </header>
+            <section>
+                {{ content }}
+                {% include contact.html %}
+            </section>
+        </article>
+    </div>
 </div>
 <style>footer { display: none; }</style>
 {% include deeplink.html %}
